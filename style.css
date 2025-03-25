@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+}
+h1,p{
+    font-family: Regular Libre Baskerville,cursive;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+img{
+    border: 5px solid gray;
+    width: 100%;
+}
+div{
+    width:50%;
+    margin-left: 25%;
+}
